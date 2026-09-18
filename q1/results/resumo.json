@@ -1,0 +1,23 @@
+{
+  "K_star": 2,
+  "H_star": 2,
+  "silhueta_Kstar": 0.6596309439335903,
+  "objetivo_Kstar": 244486.69834951469,
+  "ari_Kstar": -0.00494969888751088,
+  "n_iter_convergencia": 34,
+  "convergiu": true,
+  "n_execucoes_totais": 900,
+  "tamanho_clusters_objetos": {
+    "0": 4567,
+    "1": 34
+  },
+  "tamanho_grupos_variaveis": {
+    "0": 46,
+    "1": 11
+  },
+  "controle_kmeans_classico": {
+    "silhueta": 0.6596309439335903,
+    "ari": -0.00494969888751088
+  },
+  "sensibilidade_log1p_ari_maximo": 0.5358610342514605
+}
